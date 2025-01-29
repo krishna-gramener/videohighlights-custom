@@ -34,7 +34,7 @@ const renderInterests = (advisorId, interests) =>
     .split(/,\s*/)
     .map((interest, i) => [
       i ? ", " : "",
-      html`<a class="interest" href="#" data-advisor="${advisorId}" data-interest="${interest}">${interest}</a>`,
+      html`<span class="interest" href="#" data-advisor="${advisorId}" data-interest="${interest}">${interest}</span>`,
     ]);
 const homePage = html`
   <h1 class="display-1 my-5 text-center">Video Highlights</h1>
@@ -73,7 +73,6 @@ const homePage = html`
               <p><strong>Goals</strong>: ${advisor.goals}</p>
               <p><strong>Challenges</strong>: ${advisor.challenges}</p>
               <p><strong>Interests</strong>: ${renderInterests(id, advisor.interests)}</p>
-              <p><i class="bi bi-magic text-primary fs-5"></i> Click on interests for supporting interactions.</p>
             </div>
           </div>
         </div>
@@ -211,7 +210,6 @@ async function renderApp(videoId, advisorId) {
       <p><strong>Goals</strong>: ${advisor.goals}</p>
       <p><strong>Challenges</strong>: ${advisor.challenges}</p>
       <p><strong>Interests</strong>: ${renderInterests(advisorId, advisor.interests)}</p>
-      <p class="small text-secondary"><i class="bi bi-magic text-primary fs-5"></i> Click on interests for supporting interactions.</p>
     </div>
     `,
     $highlights
@@ -312,36 +310,3 @@ function updatePosition() {
   if (segment) transcriptData.segments.forEach((seg) => seg.element.classList.toggle("highlight", seg === segment));
 }
 
-const $interestModal = document.querySelector("#interest-modal");
-const interestModal = new bootstrap.Modal($interestModal);
-const interests = await fetch("interests.json").then((r) => r.json());
-
-document.body.addEventListener("click", (e) => {
-  const interest = e.target.closest(".interest");
-  if (interest) {
-    e.preventDefault();
-    const data = interest.dataset;
-    const advisor = config.advisors[data.advisor];
-    $interestModal.querySelector(".modal-title").textContent = `${advisor.name}: ${data.interest}`;
-    const candidates = interests
-      .filter((row) => row.advisor == advisor.name)
-      .sort((a, b) => b[data.interest] - a[data.interest]);
-    // Get up to 6 reasons with over 50% similarity. Else just the top reasons
-    let reasons = candidates.filter((row) => row[data.interest] > 0.5).slice(0, 8);
-    if (reasons.length == 0) reasons = candidates.slice(0, 1);
-    render(
-      html`<p>Here's how we know ${advisor.name} is interested in ${data.interest}</p>
-        <ol>
-          ${reasons.map(
-            ({ key, value, ...row }) =>
-              html`<li class="my-2">
-                <strong>${key}</strong> ${value}
-                <small class="text-secondary">(${pc(Math.min(1, row[data.interest] / 0.6))} confidence)</small>
-              </li>`
-          )}
-        </ol>`,
-      $interestModal.querySelector(".modal-body")
-    );
-    interestModal.show();
-  }
-});
