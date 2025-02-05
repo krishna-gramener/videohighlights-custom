@@ -240,104 +240,200 @@
       "highlights": {
         "gi-cancer-asco-2024-practice-changing": [
           {
-            "p": "<strong>Clinical Trial Evolution</strong>: The plenary presentation of S-EPEC study provides crucial insights for your KOL discussions. With your 15 years in medical affairs and specialized GI oncology background, this comparison between CROSS and FLOT approaches offers valuable context for scientific exchange about evolving treatment standards.",
+            "p": "<strong>S-EPEC Plenary Selection Impact</strong>: As an MSL with 15 years in medical affairs, the selection of S-EPEC as one of only five plenary studies provides you with a powerful context for KOL discussions about the evolving esophageal adenocarcinoma treatment landscape.",
             "start_time": 44.64
           },
           {
-            "p": "<strong>Clinical Practice Implementation</strong>: The methodological considerations and practical challenges discussed provide crucial context for your educational role. This information supports your goal of helping clinicians optimize treatment delivery and patient care.",
-            "start_time": 155.88
+            "p": "<strong>CROSS Protocol Historical Evolution</strong>: The detailed history of CROSS protocol from 2012 offers valuable historical perspective for your educational initiatives. This background enhances your ability to discuss treatment evolution with healthcare providers.",
+            "start_time": 96.82
           },
           {
-            "p": "<strong>Clinical Outcomes Analysis</strong>: The detailed examination of completion rates (90% preoperative vs 50% postoperative FLOT) presents critical teaching opportunities. This data directly supports your role in stakeholder engagement and helps address practical implementation questions from clinicians.",
+            "p": "<strong>Community vs Academic Treatment Patterns</strong>: The analysis of chemoradiation prevalence in community settings versus FLOT in academic centers aligns with your role in bridging treatment approaches across different practice settings.",
+            "start_time": 119.60
+          },
+          {
+            "p": "<strong>FLOT Trial Completion Analysis</strong>: The data showing 90% completion of preoperative FLOT but only 50% reaching postoperative therapy provides crucial insights for your discussions about treatment sequencing and patient management.",
             "start_time": 202.06
           },
           {
-            "p": "<strong>Historical Perspective Integration</strong>: The evolution from epiribicin-based treatments to FLOT demonstrates field advancement. Your 8 years specializing in GI oncology positions you perfectly to contextualize these changes and their implications for current clinical practice.",
+            "p": "<strong>NeoAges Trial Methodological Insights</strong>: The discussion of NeoAges trial's timing during the transition from epiribicin-based treatments to FLOT offers valuable teaching points about clinical trial design evolution.",
             "start_time": 298.26
           },
           {
-            "p": "<strong>Supportive Care Strategies</strong>: The focus on improved supportive care measures aligns with your educational delivery role. These insights strengthen your discussions about optimizing patient outcomes and treatment adherence with healthcare providers.",
-            "start_time": 401.94
+            "p": "<strong>Checkmate 577 Integration Strategy</strong>: Dr. Goodman's insights about potential synergies between radiation and adjuvant immunotherapy provide key discussion points for your KOL interactions about treatment optimization.",
+            "start_time": 350.94
           },
           {
-            "p": "<strong>Evidence-Based Practice Updates</strong>: The comprehensive trial outcomes discussion provides key material for your KOL interactions. Your expertise in stakeholder engagement enables effective communication of these findings to influence clinical practice.",
+            "p": "<strong>CROSS Protocol Compliance Criteria</strong>: The detailed analysis of CROSS completion criteria, including the impact of missing even a single chemotherapy dose, offers important context for discussions about protocol adherence.",
             "start_time": 455.74
           },
           {
-            "p": "<strong>Treatment Paradigm Education</strong>: The analysis of evolving treatment standards offers valuable teaching opportunities. Your background in medical affairs helps translate these developments into practical guidance for healthcare providers.",
-            "start_time": 500.68
+            "p": "<strong>Multidisciplinary Care Implementation</strong>: The emphasis on tumor board involvement and cross-specialty collaboration aligns with your goal of facilitating comprehensive treatment planning discussions.",
+            "start_time": 594.18
           },
           {
-            "p": "<strong>Clinical Practice Implementation</strong>: The methodological considerations and practical challenges discussed provide crucial context for your educational role. This information supports your goal of helping clinicians optimize treatment delivery and patient care.",
-            "start_time": 546.28
+            "p": "<strong>FLOT4 Long-term Outcomes</strong>: The comparison with historical FLOT4 data provides valuable context for your discussions about long-term treatment outcomes and the evolution of perioperative chemotherapy approaches.",
+            "start_time": 687.94
+          },
+          {
+            "p": "<strong>Treatment Selection Criteria</strong>: The analysis of patient factors influencing treatment decisions between CROSS and FLOT approaches offers crucial insights for your educational role in helping clinicians optimize patient selection.",
+            "start_time": 831.21
+          },
+          {
+            "p": "<strong>Real-world Implementation Challenges</strong>: The discussion of practical challenges in implementing both CROSS and FLOT protocols provides important teaching points for your interactions with community oncologists.",
+            "start_time": 1049.05
+          },
+          {
+            "p": "<strong>Future Trial Design Considerations</strong>: The examination of how evolving standards of care impact ongoing trials offers valuable insights for your discussions about emerging research with investigators and research coordinators.",
+            "start_time": 1298.82
           }
         ],
         "asco-2024-and-esmo-gi-2024": [
           {
-            "p": "<strong>Clinical Research Leadership</strong>: Dr. Kuttner's role in leading the gastric and esophageal program at MGH, combined with his involvement in NRG and NCI committees, provides valuable insights for your KOL engagement strategy. His expertise in translational research and genomics aligns with current therapeutic trends.",
-            "start_time": 103.44
+            "p": "<strong>FLOT vs CROSS Treatment Paradigm</strong>: The shift from chemoradiation to FLOT as the preferred standard of care provides you with critical context for educating healthcare providers about evolving treatment landscapes in esophageal cancer.",
+            "start_time": 169.02
           },
           {
-            "p": "<strong>Disease Burden Analysis</strong>: The presentation's statistics on stomach cancer's impact - 30,000 new US cases annually and its position as the second leading cause of cancer deaths worldwide - offers crucial epidemiological context for your scientific discussions with healthcare providers.",
-            "start_time": 225.52
-          },
-          {
-            "p": "<strong>Diagnostic Challenge Insights</strong>: Understanding that many patients are asymptomatic during early stages, leading to late diagnosis, is critical for your educational initiatives. This knowledge can enhance your discussions about the importance of early detection and screening protocols.",
+            "p": "<strong>Micrometastatic Disease Management</strong>: The discussion of microscopic cancer cells and their role in recurrence offers valuable teaching points for your interactions about the importance of systemic therapy approaches.",
             "start_time": 296.96
           },
           {
-            "p": "<strong>Research Grant Impact</strong>: The Foundation's achievement of $1.45 million in research grants demonstrates the growing research momentum in gastric cancer. This information supports your role in discussing emerging clinical trials and research opportunities with KOLs.",
+            "p": "<strong>INFINITY Trial Insights</strong>: The potential pathway to surgery-free approaches aligns with your role in discussing patient-centric treatment options and emerging clinical trial opportunities.",
             "start_time": 378.76
           },
           {
-            "p": "<strong>Therapeutic Innovation Focus</strong>: Dr. Kuttner's emphasis on cancer genomics and targeted therapies aligns with your scientific expertise. His insights on immune-mediated therapies and biomarkers provide valuable context for discussions about personalized treatment approaches.",
-            "start_time": 432.18
-          },
-          {
-            "p": "<strong>Clinical Trial Evolution</strong>: The presentation's coverage of current research initiatives, including Stand Up to Cancer and NCI support, offers important updates for your KOL discussions about ongoing and upcoming clinical trials in gastric cancer.",
+            "p": "<strong>Renaissance Trial Analysis</strong>: The evidence regarding surgical intervention in stage IV disease provides crucial discussion points for your interactions with multidisciplinary teams about treatment sequencing.",
             "start_time": 488.94
           },
           {
-            "p": "<strong>Treatment Guidelines Context</strong>: Dr. Kuttner's involvement in NCCN Guidelines Committees provides valuable insights into treatment protocol development. This information enhances your ability to discuss guideline updates and implementation strategies.",
+            "p": "<strong>ARMANI Protocol Implementation</strong>: The emphasis on comprehensive treatment utilization offers important context for your discussions about optimizing patient care pathways and resource allocation.",
             "start_time": 544.18
           },
           {
-            "p": "<strong>Patient Advocacy Integration</strong>: The emphasis on patient advocacy and education demonstrates the importance of incorporating patient perspectives in clinical research. This insight supports your role in facilitating patient-centered trial designs and outcomes.",
-            "start_time": 594.66
+            "p": "<strong>Keynote 585 Trial Updates</strong>: The ongoing evaluation of immunotherapy in stage II/III disease provides key insights for your educational initiatives about evolving treatment paradigms.",
+            "start_time": 634.12
+          },
+          {
+            "p": "<strong>Keynote 811 Patient Selection</strong>: The focus on patient selection for HER2-targeted immunotherapy combinations enhances your ability to facilitate discussions about biomarker-driven treatment approaches.",
+            "start_time": 747.50
+          },
+          {
+            "p": "<strong>Zolbetuximab Development</strong>: The anticipated FDA approval of zolbetuximab offers valuable context for your discussions about emerging targeted therapies and their integration into treatment algorithms.",
+            "start_time": 858.16
+          },
+          {
+            "p": "<strong>Novel Target Exploration</strong>: The examination of FGFR-2B, TIGIT, and MET pathways provides crucial material for your educational sessions about the expanding landscape of precision medicine.",
+            "start_time": 978.96
+          },
+          {
+            "p": "<strong>Real-world Evidence Integration</strong>: The presentation of clinical trial populations reflecting real-world patients strengthens your ability to discuss practical implementation of research findings.",
+            "start_time": 1082.28
+          },
+          {
+            "p": "<strong>Treatment Completion Analysis</strong>: The data on therapy completion rates across different protocols provides important context for your discussions about treatment adherence and patient support.",
+            "start_time": 1211.72
+          },
+          {
+            "p": "<strong>Future Research Directions</strong>: The overview of upcoming clinical trials and therapeutic targets enhances your ability to engage KOLs in discussions about the future of gastric cancer treatment.",
+            "start_time": 1352.56
+          },
+          {
+            "p": "<strong>Survival Data Interpretation</strong>: The detailed analysis of survival curves and risk tables provides you with essential statistical context for discussing treatment outcomes with healthcare providers.",
+            "start_time": 1391.06
+          },
+          {
+            "p": "<strong>Biomarker-Driven Strategies</strong>: The discussion of patient stratification based on molecular markers enhances your ability to facilitate precision medicine discussions with oncology teams.",
+            "start_time": 1446.10
+          },
+          {
+            "p": "<strong>Quality of Life Considerations</strong>: The presentation's emphasis on treatment tolerability and patient experience offers valuable insights for your discussions about holistic patient care approaches.",
+            "start_time": 1492.32
+          },
+          {
+            "p": "<strong>Clinical Trial Design Evolution</strong>: The analysis of adaptive trial designs and endpoint selection provides crucial context for your interactions with research teams and investigators.",
+            "start_time": 1549.12
+          },
+          {
+            "p": "<strong>Treatment Sequencing Strategies</strong>: The evaluation of optimal treatment sequencing across different patient populations offers important teaching points for your educational initiatives.",
+            "start_time": 1604.10
+          },
+          {
+            "p": "<strong>Multidisciplinary Collaboration</strong>: The emphasis on team-based approaches to patient care aligns with your role in facilitating cross-specialty communication and treatment planning.",
+            "start_time": 1836.92
+          },
+          {
+            "p": "<strong>Future Research Directions</strong>: The discussion of upcoming trials and therapeutic approaches provides valuable context for your long-term strategic planning with research teams.",
+            "start_time": 1944.51
+          },
+          {
+            "p": "<strong>Implementation Challenges</strong>: The analysis of real-world implementation barriers and solutions offers crucial insights for your discussions about treatment protocol adoption.",
+            "start_time": 2060.77
           }
         ],
         "ucsf-bay-area-breast-cancer": [
           {
-            "p": "<strong>Scientific Meeting Strategy</strong>: The discussion of ASCO's role in presenting breakthrough breast cancer research provides crucial context for your KOL interactions. Understanding the conference's significance helps you prepare for scientific exchanges about emerging data.",
+            "p": "<strong>Forum Leadership</strong>: Dr. Hope Rugo, a distinguished breast medical oncologist at UCSF, leads the Bay Area Breast Cancer Forum, bringing together experts to discuss the latest updates from ASCO 2024. This collaborative platform showcases UCSF's commitment to sharing knowledge and advancing breast cancer treatment through interactive discussions.",
             "start_time": 54.02
           },
           {
-            "p": "<strong>Clinical Evidence Framework</strong>: The presentation's emphasis on how conference data impacts treatment approaches and study design offers valuable insights. This understanding enhances your ability to discuss evidence-based practice evolution with healthcare providers.",
+            "p": "<strong>Expert Panel</strong>: The forum features an exceptional panel including Dr. Michael Alvarado, a renowned breast cancer surgeon, and Dr. Danny Tang, specializing in advanced surgical techniques. Their expertise in surgical oncology demonstrates UCSF's dedication to comprehensive patient care and surgical innovation.",
             "start_time": 115.3
           },
           {
-            "p": "<strong>Multidisciplinary Collaboration</strong>: UCSF's team approach, featuring surgical, medical oncology, and fellowship perspectives, demonstrates effective cross-specialty collaboration. This model informs your interactions with various healthcare specialists.",
-            "start_time": 174.1
+            "p": "<strong>Research Programs</strong>: Dr. Joe Chen leads groundbreaking studies in endocrine optimization and neoadjuvant treatment through the ISPI program, while Dr. Laura Hubbard contributes to various research initiatives. This collaborative approach highlights UCSF's commitment to advancing breast cancer treatment through clinical trials and research.",
+            "start_time": 137.92
           },
           {
-            "p": "<strong>Research Program Insights</strong>: The discussion of UCSF's endocrine optimization program and ongoing clinical trials provides valuable context for your scientific exchanges. This knowledge enhances your ability to discuss current research initiatives.",
-            "start_time": 296.38
+            "p": "<strong>Telemedicine Innovation</strong>: Dr. Kelsey Natsuhara's research on telemedicine applications in breast cancer care, funded by ASCO and the Association for Cancer Research, showcases UCSF's innovation in improving patient access and care delivery through technology.",
+            "start_time": 218.66
           },
           {
-            "p": "<strong>Digital Health Innovation</strong>: The presentation's coverage of telemedicine research, supported by ASCO and AACR, reveals emerging care delivery models. This information strengthens your discussions about evolving healthcare practices.",
-            "start_time": 348.1
+            "p": "<strong>Surgical Advancements</strong>: The presentation explores revolutionary approaches in axillary lymph node staging, comparing sentinel lymph node biopsy with traditional methods. This research demonstrates UCSF's commitment to minimizing surgical complications while maintaining oncological safety.",
+            "start_time": 1142.86
           },
           {
-            "p": "<strong>Surgical Technique Evolution</strong>: The detailed explanation of axillary lymph node staging approaches provides important surgical context. This knowledge enhances your ability to discuss comprehensive treatment strategies with clinicians.",
-            "start_time": 401.84
+            "p": "<strong>Personalized Medicine</strong>: Discussion of personalized treatment approaches, incorporating factors such as tumor biology and patient characteristics, reflects UCSF's dedication to precision medicine in breast cancer care. The team emphasizes evidence-based decision-making in selecting optimal therapeutic strategies.",
+            "start_time": 1357.16
           },
           {
-            "p": "<strong>Patient Communication Strategy</strong>: The speaker's method of explaining complex surgical concepts offers valuable communication techniques. This approach can inform your educational discussions with healthcare providers about patient counseling.",
-            "start_time": 452.1
+            "p": "<strong>Clinical Research</strong>: Analysis of recent clinical trial results provides insights into treatment effectiveness and patient outcomes. The forum's examination of trial data demonstrates UCSF's role in shaping evidence-based practices in breast cancer management.",
+            "start_time": 1506.36
           },
           {
-            "p": "<strong>Interactive Education Model</strong>: The webinar's Q&A format demonstrates effective knowledge exchange. This model provides insights for facilitating productive scientific discussions and addressing clinical practice questions.",
-            "start_time": 505.5
+            "p": "<strong>Quality of Life</strong>: The discussion emphasizes quality of life considerations and shared decision-making in breast cancer treatment, highlighting UCSF's commitment to patient-centered care and comprehensive support throughout the treatment journey.",
+            "start_time": 1763.82
+          },
+          {
+            "p": "<strong>Treatment Advances</strong>: Exploration of novel treatment modalities and their integration into clinical practice showcases UCSF's leadership in adopting and evaluating cutting-edge therapies for breast cancer patients.",
+            "start_time": 2144.18
+          },
+          {
+            "p": "<strong>Collaborative Care</strong>: The forum highlights the importance of multidisciplinary collaboration in breast cancer care, demonstrating how UCSF's team-based approach optimizes treatment outcomes through integrated expertise across specialties.",
+            "start_time": 2368.08
+          },
+          {
+            "p": "<strong>Education and Research</strong>: Discussion of ongoing research projects and educational programs illustrates UCSF's commitment to advancing knowledge in breast cancer treatment while training the next generation of oncology specialists.",
+            "start_time": 2709.46
+          },
+          {
+            "p": "<strong>Future Perspectives</strong>: The forum concludes with insights into future developments in breast cancer treatment, emphasizing UCSF's role in shaping innovative approaches and improving patient outcomes through research and clinical excellence.",
+            "start_time": 3368.08
+          },
+          {
+            "p": "<strong>Hormone Therapy</strong>: The forum addresses advanced treatment considerations for hormone receptor-positive breast cancers, discussing the importance of tailored approaches based on tumor biology and treatment response. This exemplifies UCSF's commitment to personalized medicine and optimal patient outcomes.",
+            "start_time": 3582.44
+          },
+          {
+            "p": "<strong>Trial Data Analysis</strong>: Detailed analysis of clinical trial data from the B40-41 trials provides insights into treatment efficacy across different breast cancer subtypes, showcasing UCSF's expertise in translating research findings into clinical practice improvements.",
+            "start_time": 3845.62
+          },
+          {
+            "p": "<strong>Patient Monitoring</strong>: The discussion explores innovative approaches to patient monitoring and follow-up care, emphasizing UCSF's holistic approach to breast cancer treatment and long-term survivorship support.",
+            "start_time": 4102.28
+          },
+          {
+            "p": "<strong>Interactive Learning</strong>: The forum concludes with a comprehensive Q&A session, demonstrating UCSF's dedication to addressing complex clinical scenarios and fostering collaborative learning among healthcare professionals.",
+            "start_time": 4256.14
           }
         ]
       }
