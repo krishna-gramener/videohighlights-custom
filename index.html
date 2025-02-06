@@ -66,9 +66,8 @@
   </div>
   <div class="mx-auto my-5 narrative">
     <h2 class="h3">How does it work?</h2>
-    <p>We <strong>extract</strong> user interests from digital exhaust (CRM entries, web logs, and emails) using <strong>embeddings</strong> -- a low-cost way of using LLMs.
-      We use this to name the interests using the prompt <q class="fst-italic">Given this information about a financial advisor, return a JSON object {\"interests\": \"...\"} containing comma-separated keywords they would be interested in when listening to a financial podcast.</q></p>
-    <p>We <strong>transcribe</strong> audio files using the open-source <a href="https://github.com/openai/whisper">Whisper</a> model. It's great at stripping out "uh...", "um...", etc. and creating a cohesive transcript.</p>
+    <p>We <strong>extract</strong> user interests from email interactions, CRM engagements, and web visits using <strong>embeddings</strong> -- a low-cost way of using LLMs. We use this to identify relevant insights using the prompt <q class="fst-italic">Given this video transcript and user profile, explain the implications for their role and how they can leverage this information in their practice.</q></p>
+    <p>We <strong>transcribe</strong> medical conference videos using the open-source <a href="https://github.com/openai/whisper">Whisper</a> model. It accurately captures technical medical terms while filtering out filler words to create clear, professional transcripts.</p>
     <p>We don't <strong>diarize</strong> the transcript to add speaker names, but using <a href="https://www.anthropic.com/news/claude-3-haiku">Anthropic's Claude 3 Haiku</a>,
       a <a href="https://gramener.com/llmpricing/">frontier model</a>, we can do this with a simple prompt:
       <q class="fst-italic">Label this call transcript between an agent and caller based on context</q>.
@@ -97,7 +96,7 @@
 
   <script defer src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.bundle.min.js" type="module" a></script>
   <script defer src="https://cdn.jsdelivr.net/npm/@gramex/ui/dist/dark-theme.js" type="module"></script>
-  <script defer type="module" src="script.js"></script>
+  <script defer type="module" src="static/script.js"></script>
 </body>
 
 </html>

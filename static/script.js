@@ -109,17 +109,9 @@ const homePage = html`
     <p><strong>Click the videos above</strong> to see how we:</p>
     <ol>
       <li>Extract the transcript from the video (including the timing)</li>
-      <li>Use an LLM to summarize the transcript <em>for each advisor</em>, suggesting actions for <em>their</em> clients.</li>
+      <li>Use an LLM to summarize the transcript <em>for each individual</em>.</li>
     </ol>
-    <p>Click on the videos to see the personalized summaries. For example, see:</p>
-    <ul>
-      <li><a href="#?video=four-economic-themes-to-know-in-2024&advisor=jane-doe">Four Economic Themes to Know in 2024</a> for Jane Doe</li>
-      <li><a href="#?video=four-economic-themes-to-know-in-2024&advisor=emily-turner">Four Economic Themes to Know in 2024</a> for Emily Turner</li>
-      <li><a href="#?video=capitalizing-on-market-shifts-in-2024&advisor=michael-brown">Capitalizing on Market Shifts in 2024</a> for Michael Brown</li>
-      <li><a href="#?video=capitalizing-on-market-shifts-in-2024&advisor=david-lee">Capitalizing on Market Shifts in 2024</a> for David Lee</li>
-    </ul>
   </div>
-
 </div>
 `;
 

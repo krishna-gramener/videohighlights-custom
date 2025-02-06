@@ -6,7 +6,7 @@
       "url": "https://www.asco.org/meetings-education/asco-annual-meeting/abstracts/gi-cancer-asco-2024-practice-changing",
       "video": "https://www.asco.org/videos/gi-cancer-asco-2024-practice-changing",
       "youtube": "bhVDYM0U-5E",
-      "transcript": "videos/gi-cancer.json"
+      "transcript": "assets/videos/gi-cancer.json"
     },
     "asco-2024-and-esmo-gi-2024": {
       "source": "asco-esmo",
@@ -14,7 +14,7 @@
       "url": "https://www.asco.org/meetings-education/asco-annual-meeting/abstracts/asco-esmo-gi-2024",
       "video": "https://www.asco.org/videos/asco-esmo-gi-2024",
       "youtube": "wfOO5BXBrhc",
-      "transcript": "videos/asco-2024-and-esmo-gi-2024.json"
+      "transcript": "assets/videos/asco-2024-and-esmo-gi-2024.json"
     },
     "ucsf-bay-area-breast-cancer": {
       "source": "ucsf",
@@ -22,12 +22,12 @@
       "url": "https://www.ucsf.edu/news/2023/09/ucsf-bay-area-breast-cancer",
       "video": "https://www.ucsf.edu/video/ucsf-bay-area-breast-cancer",
       "youtube": "JyYo6Z2cWrk",
-      "transcript": "videos/ucsf-bay-area-breast-cancer.json"
+      "transcript": "assets/videos/ucsf-bay-area-breast-cancer.json"
     }
   },
   "advisors": {
     "rachel-green": {
-      "img": "img/jane-doe.webp",
+      "img": "assets/img/jane-doe.webp",
       "name": "Rachel Green",
       "role": "Senior Manager, Brand/Product Strategy",
       "age": 38,
@@ -227,7 +227,7 @@
       }
     },
     "david-wilson": {
-      "img": "img/michael-brown.webp",
+      "img": "assets/img/michael-brown.webp",
       "name": "David Wilson",
       "role": "Regional MSL, Oncology",
       "age": 45,
@@ -459,7 +459,7 @@
       }
     },
     "emily-harper": {
-      "img": "img/emily-turner.webp",
+      "img": "assets/img/emily-turner.webp",
       "name": "Emily Harper",
       "role": "Manager, Medical Scientific Communications",
       "age": 33,
@@ -627,7 +627,7 @@
       }
     },
     "mia-chen": {
-      "img": "img/mia-chen.jpg",
+      "img": "assets/img/mia-chen.jpg",
       "name": "Mia Chen",
       "role": "Director, Competitive Intelligence",
       "age": 42,
